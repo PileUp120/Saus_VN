@@ -1,4 +1,6 @@
 Story goals - 
-decide Genre
-decide number of characters
-decide setting
+-decide Genre:
+  Psychological/action/SoL/Comedy/Mystery/Pure Nukige
+-decide number of characters
+  
+-decide setting
